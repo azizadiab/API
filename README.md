@@ -1,6 +1,7 @@
 📘 Student API Solution
 
 A complete example of a multi-layered API project built with C# (.NET Framework) and SQL Server, following clean architecture principles
+
 🧩 Solution Structure
 API/
 │
@@ -15,6 +16,7 @@ API/
 ├── StudentApiDataAccessLayer/     # Database operations using ADO.NET
 │
 └── StudentApiClient/              # Windows Forms client consuming the API
+
 Technologies Used
 
 C# (.NET Framework)
@@ -30,6 +32,7 @@ Layered Architecture (DAL, BLL, UI)
 JSON for data exchange
 
 Postman for API testing
+
 🚀 How to Run
 
 Clone the repository:

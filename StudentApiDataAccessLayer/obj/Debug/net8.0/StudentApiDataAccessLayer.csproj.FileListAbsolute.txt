@@ -1,0 +1,12 @@
+G:\API\StudentApiDataAccessLayer\bin\Debug\net8.0\StudentApiDataAccessLayer.deps.json
+G:\API\StudentApiDataAccessLayer\bin\Debug\net8.0\StudentApiDataAccessLayer.dll
+G:\API\StudentApiDataAccessLayer\bin\Debug\net8.0\StudentApiDataAccessLayer.pdb
+G:\API\StudentApiDataAccessLayer\obj\Debug\net8.0\StudentApiDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\API\StudentApiDataAccessLayer\obj\Debug\net8.0\StudentApiDataAccessLayer.AssemblyInfoInputs.cache
+G:\API\StudentApiDataAccessLayer\obj\Debug\net8.0\StudentApiDataAccessLayer.AssemblyInfo.cs
+G:\API\StudentApiDataAccessLayer\obj\Debug\net8.0\StudentApiDataAccessLayer.csproj.CoreCompileInputs.cache
+G:\API\StudentApiDataAccessLayer\obj\Debug\net8.0\StudentApiDataAccessLayer.dll
+G:\API\StudentApiDataAccessLayer\obj\Debug\net8.0\refint\StudentApiDataAccessLayer.dll
+G:\API\StudentApiDataAccessLayer\obj\Debug\net8.0\StudentApiDataAccessLayer.pdb
+G:\API\StudentApiDataAccessLayer\obj\Debug\net8.0\ref\StudentApiDataAccessLayer.dll
+G:\API\StudentApiDataAccessLayer\obj\Debug\net8.0\StudentApiDataAccessLayer.csproj.AssemblyReference.cache

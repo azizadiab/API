@@ -1,0 +1,4 @@
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.GeneratedMSBuildEditorConfig.editorconfig
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.AssemblyInfoInputs.cache
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.AssemblyInfo.cs
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.csproj.CoreCompileInputs.cache

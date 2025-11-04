@@ -1,0 +1,15 @@
+G:\API\StudentApiBusinessLayer\bin\Release\net8.0\StudentApiBusinessLayer.deps.json
+G:\API\StudentApiBusinessLayer\bin\Release\net8.0\StudentApiBusinessLayer.dll
+G:\API\StudentApiBusinessLayer\bin\Release\net8.0\StudentApiBusinessLayer.pdb
+G:\API\StudentApiBusinessLayer\bin\Release\net8.0\StudentApiDataAccessLayer.dll
+G:\API\StudentApiBusinessLayer\bin\Release\net8.0\StudentApiDataAccessLayer.pdb
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\StudentApiBusinessLayer.csproj.AssemblyReference.cache
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\StudentApiBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\StudentApiBusinessLayer.AssemblyInfoInputs.cache
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\StudentApiBusinessLayer.AssemblyInfo.cs
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\StudentApiBusinessLayer.csproj.CoreCompileInputs.cache
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\StudentA.7A521644.Up2Date
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\StudentApiBusinessLayer.dll
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\refint\StudentApiBusinessLayer.dll
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\StudentApiBusinessLayer.pdb
+G:\API\StudentApiBusinessLayer\obj\Release\net8.0\ref\StudentApiBusinessLayer.dll

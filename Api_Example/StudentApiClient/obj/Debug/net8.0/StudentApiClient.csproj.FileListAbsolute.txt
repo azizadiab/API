@@ -1,0 +1,14 @@
+G:\API\StudentApiClient\bin\Debug\net8.0\StudentApiClient.exe
+G:\API\StudentApiClient\bin\Debug\net8.0\StudentApiClient.deps.json
+G:\API\StudentApiClient\bin\Debug\net8.0\StudentApiClient.runtimeconfig.json
+G:\API\StudentApiClient\bin\Debug\net8.0\StudentApiClient.dll
+G:\API\StudentApiClient\bin\Debug\net8.0\StudentApiClient.pdb
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.GeneratedMSBuildEditorConfig.editorconfig
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.AssemblyInfoInputs.cache
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.AssemblyInfo.cs
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.csproj.CoreCompileInputs.cache
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.dll
+G:\API\StudentApiClient\obj\Debug\net8.0\refint\StudentApiClient.dll
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.pdb
+G:\API\StudentApiClient\obj\Debug\net8.0\StudentApiClient.genruntimeconfig.cache
+G:\API\StudentApiClient\obj\Debug\net8.0\ref\StudentApiClient.dll
